@@ -1,0 +1,1 @@
+D:\Projects\WinForm\LanImageSender\LanImageSender\bin\Debug\LanImageSender.exe.config
